@@ -1,4 +1,4 @@
-var base_url = 'https://web.vplay.one/';
+var base_url = 'http://web.vplay.one/';
 //var base_url = 'http://192.168.1.5:3050/';
 
 function httpGetAsync(theUrl, callback)
